@@ -8,7 +8,7 @@ body{
     
 }
 
-.foo { writing-mode: vertical-lr; position: fixed; font-size:200%;}
+.foo { writing-mode: vertical-lr; position: fixed; font-size:200%; color: blue;}
 
 section{
     width: 700px;
